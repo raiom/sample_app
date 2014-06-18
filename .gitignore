@@ -14,3 +14,12 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#add
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+bundler_stubs
